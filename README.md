@@ -1,5 +1,7 @@
 # Hi there, I'm Gamal Ahmed Abd Elhakm 👋
 
+![AI Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 🚀 **AI & Data Science Enthusiast | Machine Learning Practitioner | Deep Learning Engineer**
 
 I'm passionate about leveraging AI and data science to solve real-world problems. With hands-on experience in machine learning, deep learning, and data analysis, I have built and deployed various AI models that enhance decision-making and automation.
@@ -15,47 +17,47 @@ I'm passionate about leveraging AI and data science to solve real-world problems
 
 ## 🛠️ Skills & Technologies
 ### 🔹 Programming Languages
-- **Python (Advanced), SQL, C#, Dart, JavaScript**
+- 🐍 **Python (Advanced)**, 🛢 **SQL**, 🖥 **C#**, 🎯 **Dart**, 🌐 **JavaScript**
 
 ### 🔹 Machine Learning & AI
-- **Scikit-learn, TensorFlow, PyTorch, OpenCV, YOLO**
-- **Feature Engineering, Hyperparameter Tuning, Model Optimization**
-- **Deep Learning Architectures: CNNs, RNNs, Transformers, GANs**
+- 🤖 **Scikit-learn, TensorFlow, PyTorch, OpenCV, YOLO**
+- 🔬 **Feature Engineering, Hyperparameter Tuning, Model Optimization**
+- 🧠 **Deep Learning Architectures: CNNs, RNNs, Transformers, GANs**
 
 ### 🔹 Data Science & Analytics
-- **Pandas, NumPy, Matplotlib, Seaborn, Power BI**
-- **Data Wrangling, Statistical Analysis, Predictive Modeling**
-- **ETL Pipelines, Big Data Processing**
+- 📊 **Pandas, NumPy, Matplotlib, Seaborn, Power BI**
+- 📈 **Data Wrangling, Statistical Analysis, Predictive Modeling**
+- 🏭 **ETL Pipelines, Big Data Processing**
 
 ### 🔹 Deployment & Cloud
-- **Flask, FastAPI, Streamlit, AWS, Google Cloud, Docker**
-- **Model Deployment & Web App Development**
+- 🌍 **Flask, FastAPI, Streamlit, AWS, Google Cloud, Docker**
+- 🚀 **Model Deployment & Web App Development**
 
 ### 🔹 Automation & Web Scraping
-- **BeautifulSoup, Selenium, API Integration**
+- 🕷 **BeautifulSoup, Selenium, API Integration**
 
 ## 🚀 Featured Projects
-### 🔹 **Object Tracking Application**
+### 🔹 **Object Tracking Application** 🎯
 - Developed a real-time object tracking app using OpenCV and Tkinter.
 - Supports multiple tracking algorithms (MIL, KCF, CSRT) with a user-friendly interface.
 
-### 🔹 **Fetal Health Prediction Model**
+### 🔹 **Fetal Health Prediction Model** 🏥
 - Machine learning model deployed as a Streamlit web app.
 - Achieved **95.83% accuracy** in early fetal health classification.
 
-### 🔹 **Anomaly Detection in Surveillance Videos**
+### 🔹 **Anomaly Detection in Surveillance Videos** 🔍
 - Designed a real-time security system using **YOLOv8 & RTFM**.
 - Reached **95.6% AUC** in detecting anomalies in video feeds.
 
-### 🔹 **Movie Recommendation System**
+### 🔹 **Movie Recommendation System** 🎬
 - Implemented **content-based, collaborative filtering, and k-means clustering**.
 - Optimized recommendation accuracy using various ML techniques.
 
-### 🔹 **ECG-based Authentication System**
+### 🔹 **ECG-based Authentication System** 💓
 - Developed a biometric authentication model using **SVM**.
 - Achieved **98.87% accuracy** using fiducial and non-fiducial features.
 
-### 🔹 **Arabic Word Stemmer Model**
+### 🔹 **Arabic Word Stemmer Model** 📝
 - Created an NLP model to derive Arabic word root forms.
 - Improved text-processing efficiency for Arabic NLP tasks.
 
