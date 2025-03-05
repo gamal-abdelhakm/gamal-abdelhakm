@@ -36,37 +36,13 @@ I'm passionate about leveraging AI and data science to solve real-world problems
 ### 🔹 Automation & Web Scraping
 - 🕷 **BeautifulSoup, Selenium, API Integration**
 
-## 🚀 Featured Projects
-### 🔹 **Object Tracking Application** 🎯
-- Developed a real-time object tracking app using OpenCV and Tkinter.
-- Supports multiple tracking algorithms (MIL, KCF, CSRT) with a user-friendly interface.
-
-### 🔹 **Fetal Health Prediction Model** 🏥
-- Machine learning model deployed as a Streamlit web app.
-- Achieved **95.83% accuracy** in early fetal health classification.
-
-### 🔹 **Anomaly Detection in Surveillance Videos** 🔍
-- Designed a real-time security system using **YOLOv8 & RTFM**.
-- Reached **95.6% AUC** in detecting anomalies in video feeds.
-
-### 🔹 **Movie Recommendation System** 🎬
-- Implemented **content-based, collaborative filtering, and k-means clustering**.
-- Optimized recommendation accuracy using various ML techniques.
-
-### 🔹 **ECG-based Authentication System** 💓
-- Developed a biometric authentication model using **SVM**.
-- Achieved **98.87% accuracy** using fiducial and non-fiducial features.
-
-### 🔹 **Arabic Word Stemmer Model** 📝
-- Created an NLP model to derive Arabic word root forms.
-- Improved text-processing efficiency for Arabic NLP tasks.
-
-📌 Check out my [GitHub Repositories](https://github.com/gamal-abdelhakm) for more projects!
+---
+📌 Check out my key projects pinned below or explore my [GitHub Repositories](https://github.com/gamal-abdelhakm) for more!
 
 ## 📫 Get in Touch
 - 📧 Email: gamal.ahmed.abdelhakm@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gamal-ahmed-0a6076235/)
-- 🏗️ [Portfolio Website (Coming Soon!)](https://github.com/gamal-abdelhakm)
+- 🏗️ [Portfolio Website (Datacamp)](https://www.datacamp.com/portfolio/gamalahmed)
 
 ---
 ### ⭐ **If you like my work, consider giving a star ⭐ to my repositories!**
